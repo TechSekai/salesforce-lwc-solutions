@@ -1,2 +1,2 @@
 # salesforce-lwc-solutions
-Salesforce Lightning Web Components solutions
+Salesforce Lightning Web Components solutions.
